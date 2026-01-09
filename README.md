@@ -1,0 +1,1 @@
+This repository is dedicated to providing daily news updates, articles, and relevant information about Manchester United Football Club.The goal is to create a centralized source for fans to stay informed.
